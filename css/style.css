@@ -242,7 +242,7 @@ width: 100%;}
 }
 
 .discount-item:nth-child(2){
-    background-image: url(/images/category-item1.jpg);
+    background-image: url(../images/category-item1.jpg);
     height: 300px;
     /* width:30%; */
     width: 420px;
@@ -254,7 +254,7 @@ width: 100%;}
     transform:scale(1.05,1.05);
 }
 .discount-item:nth-child(3){
-    background-image: url(/images/category-item1.jpg);
+    background-image: url(../images/category-item1.jpg);
     height: 300px;
     width: 420px;
     background-size: cover;
